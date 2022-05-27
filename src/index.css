@@ -74,7 +74,10 @@ body {
 }
 
 p {
+  text-align: left;
+  color: #504acc;
   margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
   max-width: 40em;
 }
 
